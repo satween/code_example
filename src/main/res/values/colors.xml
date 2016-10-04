@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fafafa</color>
+    <color name="colorPrimaryDark">#e0e0e0</color>
+    <color name="colorAccent">@color/orange</color>
+    <color name="colorHighlight">@color/colorPrimary</color>
+    <color name="cardview_shadow_start_color">#4d134cde</color>
+    <color name="invite_with_item_bg">#ffffff</color>
+    <color name="orange">#ff541b</color>
+    <color name="text_color_main">#222222</color>
+    <color name="text_color_secondary">#7a898f</color>
+    <color name="color_cover">#111246</color>
+
+    <color name="address_book_bg">#fa1567</color>
+    <color name="facebook_bg">#3b5998</color>
+    <color name="messenger_bg">#0084ff</color>
+    <color name="whatsapp_bg">#00d25d</color>
+    <color name="other_methods_bg">#ffffff</color>
+</resources>

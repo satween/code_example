@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cards_offsets">15dp</dimen>
+    <dimen name="left_space">16dp</dimen>
+
+    <dimen name="first_scroll">144dp</dimen>
+    <dimen name="second_scroll">180dp</dimen>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TestApp</string>
+
+    <string name="invite_methods_whats_app">Whats App</string>
+    <string name="invite_methods_messenger">Messenger</string>
+    <string name="invite_methods_facebook">Facebook</string>
+    <string name="invite_methods_address_book">Address book</string>
+    <string name="invite_methods_other_methods">Other methods</string>
+
+    <string name="error_your_contact_list_is_empty">Email addresses was not found in your contact list</string>
+    <string name="error_permission_is_not_provided">Contact permission is not provided</string>
+
+    <string name="label_mom_match">MOM MATCH</string>
+    <string name="label_invite_friends_from">INVITE FRIENDS FROM</string>
+
+    <string name="search_hint">Search by username</string>
+    <string name="activity_title">More mom-friends</string>
+    <string name="error_not_implemented">Not implemented</string>
+</resources>
